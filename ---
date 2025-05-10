@@ -1,4 +1,4 @@
 {
   "latest_version": "1.0.1",
-  "changelog": "• Added Test\n• Fixed Test Bug\n• Improved TestUI"
+  "changelog": "- Added Test\n- Fixed Test Bug\n- Improved Test UI"
 }
